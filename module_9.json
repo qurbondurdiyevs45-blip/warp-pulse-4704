@@ -1,0 +1,15 @@
+{
+  "name": "warp-pulse-4704",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 5282,
+    "createdAt": "2026-09-03T12:26:20.958Z"
+  }
+}
